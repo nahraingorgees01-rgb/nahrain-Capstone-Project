@@ -1,0 +1,28 @@
+{
+    "config": {
+        "name": "Nahrain Gorgees",
+        "course_number": "3020-001",
+        "course_description": "This is my Python Capstone Project showcasing Flask applications created with Generative AI assistance.",
+        "profile_info": "I am a student learning Flask, Generative AI, and full-stack deployment.",
+        "linkedin": "https://www.linkedin.com/in/your-linkedin/",
+        "theme": "quartz",
+        "profile_image": ""
+    },
+    "projects": [
+        {
+            "name": "Flask Study Planner",
+            "description": "An application designed to help students organize their study schedules and tasks.",
+            "url": "https://flask-app-study-planner.onrender.com"
+        },
+        {
+            "name": "GlobeGazelle Finances",
+            "description": "A travel budget calculator built with Flask to help travelers manage trip expenses.",
+            "url": "https://globegazelle-finances.onrender.com"
+        },
+        {
+            "name": "Third Project - Coming Soon",
+            "description": "I am currently developing my third Flask application. Stay tuned!",
+            "url": "#"
+        }
+    ]
+}
