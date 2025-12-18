@@ -11,17 +11,17 @@
     "projects": [
         {
             "name": "Flask Study Planner",
-            "description": "An application designed to help students organize their study schedules and tasks.",
+            "description": "An application designed to help students organize their study schedules.",
             "url": "https://flask-app-study-planner.onrender.com"
         },
         {
             "name": "GlobeGazelle Finances",
-            "description": "A travel budget calculator built with Flask to help travelers manage trip expenses.",
+            "description": "A travel budget calculator built with Flask to manage trip expenses.",
             "url": "https://globegazelle-finances.onrender.com"
         },
         {
             "name": "Third Project - Coming Soon",
-            "description": "I am currently developing my third Flask application. Stay tuned!",
+            "description": "I am currently developing my third Flask application.",
             "url": "#"
         }
     ]
