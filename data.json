@@ -4,7 +4,7 @@
         "course_number": "3020-001",
         "course_description": "This is my Python Capstone Project showcasing Flask applications created with Generative AI assistance.",
         "profile_info": "I am a student learning Flask, Generative AI, and full-stack deployment.",
-        "linkedin": "https://www.linkedin.com/in/your-linkedin/",
+        "linkedin": "https://www.linkedin.com/in/nahrain-gorgees-2b759131b/",
         "theme": "quartz",
         "profile_image": ""
     },
@@ -20,9 +20,9 @@
             "url": "https://globegazelle-finances.onrender.com"
         },
         {
-            "name": "Third Project - Coming Soon",
+            "name": "careerpath_pro",
             "description": "I am currently developing my third Flask application.",
-            "url": "#"
+            "url": "https://careerpath-pro-s5tn.onrender.com"
         }
     ]
 }
